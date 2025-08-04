@@ -1,0 +1,8 @@
+../Core/Src/interface.c:41:6:maingui	56	static
+../Core/Src/interface.c:143:6:ddsgui	120	static
+../Core/Src/interface.c:264:6:sddgui	120	static
+../Core/Src/interface.c:385:6:numgui	144	static
+../Core/Src/interface.c:541:6:learngui	224	static
+../Core/Src/interface.c:723:6:exploregui	144	static
+../Core/Src/interface.c:833:6:infogui	48	static
+../Core/Src/interface.c:871:6:authorgui	48	static

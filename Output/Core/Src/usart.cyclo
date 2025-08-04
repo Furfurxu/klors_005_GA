@@ -1,0 +1,5 @@
+../Core/Src/usart.c:30:1:__io_putchar	1
+../Core/Src/usart.c:54:6:MX_USART1_UART_Init	2
+../Core/Src/usart.c:83:6:HAL_UART_MspInit	2
+../Core/Src/usart.c:119:6:HAL_UART_MspDeInit	2
+../Core/Src/usart.c:151:6:HAL_UART_RxCpltCallback	7

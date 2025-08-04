@@ -1,0 +1,8 @@
+../Core/Src/interface.c:41:6:maingui	28
+../Core/Src/interface.c:143:6:ddsgui	27
+../Core/Src/interface.c:264:6:sddgui	27
+../Core/Src/interface.c:385:6:numgui	34
+../Core/Src/interface.c:541:6:learngui	33
+../Core/Src/interface.c:723:6:exploregui	14
+../Core/Src/interface.c:833:6:infogui	7
+../Core/Src/interface.c:871:6:authorgui	7

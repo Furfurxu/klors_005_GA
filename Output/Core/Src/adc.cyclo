@@ -1,0 +1,6 @@
+../Core/Src/adc.c:30:6:MX_ADC1_Init	3
+../Core/Src/adc.c:72:6:HAL_ADC_MspInit	2
+../Core/Src/adc.c:98:6:HAL_ADC_MspDeInit	2
+../Core/Src/adc.c:137:6:adc_channel_set	1
+../Core/Src/adc.c:152:10:adc_get_result	1
+../Core/Src/adc.c:167:10:adc_get_result_average	2

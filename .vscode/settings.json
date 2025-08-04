@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "led.h": "c",
+        "type_traits": "c",
+        "24cxx.h": "c",
+        "delay.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "lcd.h": "c",
+        "key.h": "c",
+        "interface.h": "c",
+        "ad9959.h": "c",
+        "adc.h": "c",
+        "touch.h": "c"
+    }
+}
