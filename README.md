@@ -75,6 +75,6 @@
 stm32F1xx-ad9959
 ├── Core/                # 核心代码
 ├── Drivers/             # 底层驱动(含led\led\...)
-├── Hardware/            # 硬件接口驱动 (AD9959 / LCD / Touch)
-├── User/                # 用户应用代码
+├── Output/              # 编译调试文件
+├── Middlewares/         # 芯片厂家代码库(st\ARM DSP库)
 └── README.md            # 项目说明文档
