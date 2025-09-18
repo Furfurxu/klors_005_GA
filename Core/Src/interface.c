@@ -885,9 +885,9 @@ void authorgui()
 	lcd_show_string(88, 20, 280, 100, 32, "Author", BLUE);
 	lcd_show_string(72, 80, 280, 100, 24, "Klors Xu", BLACK);
 
-	lcd_show_string(60, 130, 280, 100, 24, "Teammates: ", RED);
-	lcd_show_string(84, 190, 280, 100, 16, "LiYuanjiang", BLACK);
-	lcd_show_string(80, 210, 280, 100, 16, "XiaoJiashu", BLACK);
+	// lcd_show_string(60, 130, 280, 100, 24, "Teammates: ", RED); 
+	// lcd_show_string(84, 190, 280, 100, 16, "LiYuanjiang", BLACK);
+	// lcd_show_string(80, 210, 280, 100, 16, "XiaoJiashu", BLACK);
 
 	lcd_show_string(78, 293, 280, 100, 12, "Working within", BROWN);
 	lcd_show_string(78, 307, 280, 100, 12, "2025/7/6 ~ 8/3", BROWN);
